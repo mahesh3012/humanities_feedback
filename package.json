@@ -1,0 +1,14 @@
+{
+  "name": "humanities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahesh chandak",
+  "license": "ISC",
+  "dependencies": {
+    "tabletop": "^1.6.3"
+  }
+}

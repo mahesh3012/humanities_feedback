@@ -25,7 +25,7 @@ function init() {
         <td>${row[' [Syllabus Difficulty]']}</td>
         <td>${row[' [Level of Grading (1- Easy Grading, 5- Hard Grading)]']}</td>
         <td>${row[" [Faculty's Teaching]"]}</td>
-        <td>${row[' [ How important is it to attend the class]']}</td>
+        <td>${row[' [How important is it to attend the class]']}</td>
         <td>${row['Presentations']}</td>
         <td>${row['Assignments']}</td>
         <td>${row['Grade']}</td></tr>`
